@@ -30,6 +30,7 @@ b=t
 print("Swapped values are:",a,b)
 ```
 ##OUTPUT:
+![image]![Screenshot 2023-04-03 103950](https://user-images.githubusercontent.com/119392724/229417336-15bfdab0-db4a-4a8c-9939-5c4e8396305d.png)
 
 
 ## RESULT:
